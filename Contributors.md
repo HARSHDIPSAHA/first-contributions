@@ -11,6 +11,7 @@
 - - [Arsile](https://github.com/itsarsile)
 - [Palash]
 - Srihari C
+- Harshdip Saha
 - [Chandrabhatta Sruti Swaroop](https://www.github.com/goatsefl) 
 - [Spec-DY](https://github.com/Spec-DY) - hi! first merge!
 - [Jayesh](https://github.com/generator45)
